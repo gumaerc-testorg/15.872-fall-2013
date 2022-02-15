@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: dfdf1b75-382e-4e66-43d4-ac0638c96869
 ---
@@ -37,28 +39,6 @@ H-Level Graduate Credit ![](/images/educator/icon-question-hlevel.png)https://oc
 ### Offered
 
 Every fall and spring semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![View of the classroom from the very back of the room facing the sliding chalkboards, showing the tiered student desks.]({{< resource_file c67b4e50-12e5-3579-c1ae-fce58c0521d9 >}})
-    
-    ![](/images/educator/classroom_prev.png) Room 1 of 2 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
-    
-    ### Lecture
-    
-    Tiered seating with room capacity of 85. This room has sliding chalkboards, screens, annotatable computer, LCD video projector, and document camera.
-    
-*   ![View of the seating from side of the instructor’s workstation at the head of the room.]({{< resource_file 7fec22bb-e32f-d445-4ad5-6155fce50716 >}})
-    
-    [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Room 2 of 2 ![](/images/educator/classroom_next.png)
-    
-    ### Recitation
-    
-    Tiered seating with room capacity of 57. This room has sliding chalkboards, screens, annotatable computer, LCD video projector, and document camera.
-    
 
 Assessment
 ----------

@@ -2,8 +2,13 @@
 content_type: resource
 description: "This resource file contains information regarding mini assignment.\r\
   \n"
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-872-system-dynamics-ii-fall-2013/8e6e6547e3343b8064133a842b786081_MIT15_872F13_mini_ass.pdf
+file: /media/courses/15-872-system-dynamics-ii-fall-2013/8e6e6547e3343b8064133a842b786081_MIT15_872F13_mini_ass.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 'Mini Assignment: Service Quality at Dell - 15.872 Fall 2013'
 uid: 8e6e6547-e334-3b80-6413-3a842b786081
