@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a612509c-75c6-f13a-1674-6950b7a59510
 resourcetype: Document
 title: 'Mini Assignment: Service Quality at Dell - 15.872 Fall 2013'
 uid: 8e6e6547-e334-3b80-6413-3a842b786081

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 974b9342-759c-4256-6647-c82e42a586f6
 resourcetype: Document
 title: Product Development Recitation - 15.872 Fall 2013
 uid: accc5abf-95a3-4f15-c9a9-7dd96473b555

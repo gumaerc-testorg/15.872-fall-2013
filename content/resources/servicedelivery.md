@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a612509c-75c6-f13a-1674-6950b7a59510
 resourcetype: Other
 title: ServiceDelivery.mdl
 uid: dfe89e81-7001-03ef-bcf8-be82f0348134

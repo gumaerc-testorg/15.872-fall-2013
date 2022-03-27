@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a612509c-75c6-f13a-1674-6950b7a59510
 resourcetype: Other
 title: Widgets.mdl
 uid: fe44cec9-ebb8-4596-9071-faa9cc289e8f

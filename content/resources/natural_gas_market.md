@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a612509c-75c6-f13a-1674-6950b7a59510
 resourcetype: Other
 title: Natural_Gas_Market.mdl
 uid: 2bc18f64-f791-d6c3-c8aa-f4e9d78a755b

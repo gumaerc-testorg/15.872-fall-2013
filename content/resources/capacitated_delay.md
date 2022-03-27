@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 974b9342-759c-4256-6647-c82e42a586f6
 resourcetype: Other
 title: Capacitated_Delay.mdl
 uid: 97443541-b56a-32ce-f2e2-9fcdca7b8ee3

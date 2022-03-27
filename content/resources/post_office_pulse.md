@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 974b9342-759c-4256-6647-c82e42a586f6
 resourcetype: Other
 title: Post_Office_Pulse.mdl
 uid: 99c0ee6c-b363-af66-da51-5a72ab704352
