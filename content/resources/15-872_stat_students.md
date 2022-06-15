@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/15-872-system-dynamics-ii-fall-2013/1196d8e6b1b9cb921f8cd66949b5ed40_15-872_stat_students.png
+file: /courses/15-872-system-dynamics-ii-fall-2013/1196d8e6b1b9cb921f8cd66949b5ed40_15-872_stat_students.png
 file_type: image/png
 image_metadata:
   caption: ''

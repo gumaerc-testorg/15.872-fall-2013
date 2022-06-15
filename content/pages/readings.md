@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of reading assignments by lecture
+  topic and session.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -179,7 +181,7 @@ Godlewski, E., G. Lee, et al. "[System Dynamics Transofrms Fluor Project and Cha
 Getting Things Done: Firefighting, Capability Traps, and Death Spirals
 {{< tdclose >}}
 {{< tdopen >}}
-Read Repenning, Nelson, and John Sterman. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Nobody Ever Gets Credit for Fixing Problems that Never Happened." (PDF)](http://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf) _California Management Review_ 43, no. 4 (2001): 64-88.
+Read Repenning, Nelson, and John Sterman. ["Nobody Ever Gets Credit for Fixing Problems that Never Happened." (PDF)](http://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf) _California Management Review_ 43, no. 4 (2001): 64-88.
 {{< tdclose >}}
 
 {{< trclose >}}
