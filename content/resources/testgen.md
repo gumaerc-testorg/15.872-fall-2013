@@ -5,6 +5,7 @@ file: /courses/15-872-system-dynamics-ii-fall-2013/87be226889e2d15974f7177f27824
 file_type: application/octet-stream
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: TestGen.mdl
 uid: 87be2268-89e2-d159-74f7-177f278244be
 ---
 This is a special file that contains information regarding test gen.
-

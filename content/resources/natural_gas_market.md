@@ -6,6 +6,7 @@ file: /courses/15-872-system-dynamics-ii-fall-2013/2bc18f64f791d6c3c8aaf4e9d78a7
 file_type: application/octet-stream
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Natural_Gas_Market.mdl
 uid: 2bc18f64-f791-d6c3-c8aa-f4e9d78a755b
 ---
 This is a special file that contains information regarding natural gas market.
-

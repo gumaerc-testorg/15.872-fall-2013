@@ -5,6 +5,7 @@ file: /courses/15-872-system-dynamics-ii-fall-2013/dfe89e81700103efbcf8be82f0348
 file_type: application/octet-stream
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ServiceDelivery.mdl
 uid: dfe89e81-7001-03ef-bcf8-be82f0348134
 ---
 This is a special file that contains information regarding service delivery.
-

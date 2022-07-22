@@ -6,6 +6,7 @@ file: /courses/15-872-system-dynamics-ii-fall-2013/8e6e6547e3343b8064133a842b786
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,5 +16,3 @@ title: 'Mini Assignment: Service Quality at Dell - 15.872 Fall 2013'
 uid: 8e6e6547-e334-3b80-6413-3a842b786081
 ---
 This resource file contains information regarding mini assignment.
-
-
