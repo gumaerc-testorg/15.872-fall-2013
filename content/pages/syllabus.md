@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides information on course objectives and scope,
+  general information, meeting times, prerequisites, materials, modeling software,
+  grading, peer evaluation, and the schedule of course topics and key dates for assignments.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 3c50518c-49d8-f7a2-36a1-6af4316418c1
 ---
@@ -41,7 +46,7 @@ The required text is:
 
 Sterman, J. _Business Dynamics: Systems Thinking and Modeling for a Complex World_. McGraw-Hill / Irwin, 2000. ISBN: 9780072389159.
 
-There are additional required readings. Articles and case studies as assigned will be listed in the [Readings]({{< baseurl >}}/pages/readings) section. Additional readings will be handed out on an occasional basis.
+There are additional required readings. Articles and case studies as assigned will be listed in the {{% resource_link de8f2acd-3b5a-c119-033e-6e6dcda1672c "Readings" %}} section. Additional readings will be handed out on an occasional basis.
 
 Modeling Software
 -----------------
@@ -115,13 +120,13 @@ Calendar
 {{< tableopen >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen rowspan="2" >}}
 SES #
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen rowspan="2" >}}
 TOPICS
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 KEY DATES
 {{< thclose >}}
 
