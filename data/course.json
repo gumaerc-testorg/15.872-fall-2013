@@ -52,8 +52,10 @@
     "website": "15-872-system-dynamics-ii-fall-2013"
   },
   "learning_resource_types": [
-    "Problem Sets"
+    "Problem Sets",
+    "Instructor Insights"
   ],
-  "site_uid": "58b962d4-bfd1-489e-a879-7079fc31d6fd",
+  "site_uid": "27557d52-fa65-4883-a940-e2cfbf4be7e4",
+  "site_short_id": "15.872-fall-2013",
   "title": "Course Metadata"
 }
