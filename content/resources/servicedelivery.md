@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a special file that contains information regarding service delivery.
 file: /courses/15-872-system-dynamics-ii-fall-2013/dfe89e81700103efbcf8be82f0348134_ServiceDelivery.mdl
+file_size: 19935
 file_type: application/octet-stream
 learning_resource_types:
 - Assignments

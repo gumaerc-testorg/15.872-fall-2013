@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a special file that contains information regarding widgets.
 file: /courses/15-872-system-dynamics-ii-fall-2013/fe44cec9ebb845969071faa9cc289e8f_Widgets.mdl
+file_size: 22019
 file_type: application/octet-stream
 learning_resource_types:
 - Assignments
