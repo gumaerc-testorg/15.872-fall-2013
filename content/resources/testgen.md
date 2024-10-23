@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file that contains information regarding test gen.
-file: /courses/15-872-system-dynamics-ii-fall-2013/87be226889e2d15974f7177f278244be_TestGen.mdl
+file: /ol-ocw-studio-app/courses/15-872-system-dynamics-ii-fall-2013/87be226889e2d15974f7177f278244be_TestGen.mdl
 file_size: 5383
 file_type: application/octet-stream
 learning_resource_types:
