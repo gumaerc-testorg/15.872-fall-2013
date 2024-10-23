@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a special file that contains information regarding capacitated
   delay.
-file: /courses/15-872-system-dynamics-ii-fall-2013/97443541b56a32cef2e29fcdca7b8ee3_Capacitated_Delay.mdl
+file: /ol-ocw-studio-app/courses/15-872-system-dynamics-ii-fall-2013/97443541b56a32cef2e29fcdca7b8ee3_Capacitated_Delay.mdl
 file_size: 9108
 file_type: application/octet-stream
 learning_resource_types:
