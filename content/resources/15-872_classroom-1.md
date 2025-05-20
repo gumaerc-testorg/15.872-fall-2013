@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/15-872-system-dynamics-ii-fall-2013/c67b4e5012e53579c1aefce58c0521d9_15-872_classroom-1.jpg
+file: /courses/15-872-system-dynamics-ii-fall-2013/c67b4e5012e53579c1aefce58c0521d9_15-872_classroom-1.jpg
 file_size: 27329
 file_type: image/jpeg
 image_metadata:

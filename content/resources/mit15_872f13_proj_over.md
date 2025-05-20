@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource file contains information regarding product development\
   \ recitation.\r\n"
-file: /ol-ocw-studio-app/courses/15-872-system-dynamics-ii-fall-2013/accc5abf95a34f15c9a97dd96473b555_MIT15_872F13_proj_over.pdf
+file: /courses/15-872-system-dynamics-ii-fall-2013/accc5abf95a34f15c9a97dd96473b555_MIT15_872F13_proj_over.pdf
 file_size: 401645
 file_type: application/pdf
 learning_resource_types:
