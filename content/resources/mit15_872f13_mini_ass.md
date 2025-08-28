@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource file contains information regarding mini assignment.\r\
   \n"
-file: /courses/15-872-system-dynamics-ii-fall-2013/8e6e6547e3343b8064133a842b786081_MIT15_872F13_mini_ass.pdf
+file: /ol-ocw-studio-app/courses/15-872-system-dynamics-ii-fall-2013/8e6e6547e3343b8064133a842b786081_MIT15_872F13_mini_ass.pdf
 file_size: 335676
 file_type: application/pdf
 learning_resource_types:
